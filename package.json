@@ -1,0 +1,15 @@
+{
+  "name": "mandelbrotset",
+  "version": "1.0.0",
+  "description": "Mandelbrot set using THREEJs and WebGL",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [
+    "WebGL"
+  ],
+  "author": "Alexis Tercero",
+  "license": "MIT"
+}
